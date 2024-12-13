@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Guilherme Lima!
 
-<!--
-**guippo/guippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Developer with a strong interest in Competitive Programming and creating innovative, flexible solutions. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### I'm currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Development, Java (Spring Boot), Vue.JS;
+- Algorithms in DSA (Competitive Programming).
+
+### Skills:
+
+- Programming languages: Java, Javascript/Typescript, Kotlin;
+- Technologies: Spring Boot, Express, React, React Native, Databases (SQL/NoSQL).
+
+Feel free to [add me on Linkedin](https://www.linkedin.com/in/guilhermelimapauladev/), explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
